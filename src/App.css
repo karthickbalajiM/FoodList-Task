@@ -1,0 +1,8 @@
+.table {
+  width: 50%;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  margin: 0 auto;
+}
